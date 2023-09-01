@@ -1,0 +1,16 @@
+{
+  "product": [
+    {
+      "name": "Apple(24 Unit)",
+      "category": "food",
+      "expiryDate": "2023-09-15",
+      "costPrice": "12",
+      "sellPrice": "29",
+      "discount": "10",
+      "discountprice": 2.9,
+      "finalPrice": 26.1,
+      "decription": "Fresh Apple",
+      "id": 1
+    }
+  ]
+}
